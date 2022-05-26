@@ -24,4 +24,4 @@ Principais Linguagems:
   
   ##
   
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](![snake gif](https://github.com/rafaelgamero/rafaelgamero/blob/output/github-contribution-grid-snake.svg))
