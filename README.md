@@ -3,7 +3,7 @@
 
 
 - 👋 Ola, eu sou Rafael Gamero
-- 👀 Estou interecado em aprender novas coisas
+- 👀 Estou interessado em aprender novas coisas
 - 🌱 Estou atualmente aprendendo JavaScript
 
 ![Rafael Gamero Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgamero&hide=html&layout=compact&show_icons=true&theme=tokyonight)
