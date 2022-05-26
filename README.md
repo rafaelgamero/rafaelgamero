@@ -6,7 +6,7 @@
 - 👀 Estou interessado em aprender novas coisas
 - 🌱 Estou atualmente aprendendo JavaScript
 
-![Rafael Gamero Most Used Languages]()
+![Rafael Gamero Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgamero&hide=html&layout=compact&show_icons=true&theme=tokyonight)
 
 Principais Linguagems:
 
