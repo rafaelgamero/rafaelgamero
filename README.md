@@ -6,6 +6,8 @@
 - 👀 Estou interecado em aprender novas coisas
 - 🌱 Estou atualmente aprendendo JavaScript
 
+![Rafael Gamero Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgamero&hide=html&layout=compact&show_icons=true&theme=tokyonight)
+
 Linguagens que eu sei:
 
 <img src="https://github.com/reinaldo-silva/reinaldo-silva/blob/master/assets/javascript.svg" height="40px"/>&nbsp;
