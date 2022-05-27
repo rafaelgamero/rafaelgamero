@@ -12,6 +12,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgamero&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<p align="center">
+  <img width="470" src="sources/images/ezgif-3-2517b4b777.gif" />
+  </p>
+  
+  ![ezgif-3-2517b4b777](https://user-images.githubusercontent.com/89626514/170637099-779d9ef5-edaa-44cb-a5b1-d7fd7a5d795a.gif)
+
   ##
   
 Principais Linguagens:
@@ -21,10 +27,6 @@ Principais Linguagens:
   <img align="center" alt="Rafael-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  </div>
   
-  ![ezgif-3-2517b4b777](https://user-images.githubusercontent.com/89626514/170633487-c16e2388-944b-4f51-aa71-9b299472c31a.gif)
-  
   ##
   
 ![Snake animation](https://github.com/rafaelgamero/rafaelgamero/blob/output/github-contribution-grid-snake.svg)
-  
-![ezgif-3-2517b4b777](https://user-images.githubusercontent.com/89626514/170633487-c16e2388-944b-4f51-aa71-9b299472c31a.gif)
