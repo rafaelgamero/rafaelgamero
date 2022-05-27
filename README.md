@@ -10,7 +10,7 @@
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgamero&layout=compact&langs_count=7&theme=dracula"/>
 
-  <p align="center">
+  <p align="left">
   <img height="180em" src="sources/images/ezgif-3-2517b4b777.gif"/>
   </p>
   
