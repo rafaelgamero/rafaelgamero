@@ -2,7 +2,7 @@
 
 - 👋 Ola, eu sou Rafael Gamero
 - 👀 Estou interessado em aprender novas coisas
-- 🌱 Estou atualmente aprendendo Python
+- 🌱 Estou atualmente aprendendo Golang
   
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelgamero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
